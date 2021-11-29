@@ -1,0 +1,24 @@
+body{
+    position: relative;
+    top: 90px;
+    left: 10%;
+}
+#optionDiv{
+    display: none;
+}
+#aCourse{
+    display: none;
+}
+#EnCourse{
+    display: none;
+}
+
+#homepage{
+    display: block;
+}
+#registration{
+    display: none;
+}
+#exuser{
+    display: none;
+}
